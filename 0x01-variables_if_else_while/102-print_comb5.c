@@ -11,7 +11,7 @@ int number_left;
 int number_right;
 
 
-for (number_left = 1; number_left <= 98; number_left++)
+for (number_left = 0; number_left <= 98; number_left++)
 {
 for (number_right = number_left + 1 ; number_right <= 99; number_right++)
 {
