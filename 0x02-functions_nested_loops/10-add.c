@@ -2,7 +2,7 @@
 
 /**
  *  add - adds two intergers
- *  @n1 : interger 1 
+ *  @n1 : interger 1
  *  @n2 : interger 2
  *
  *  Description: give two intergers , returns sum
@@ -10,7 +10,7 @@
  *  Return: sum
  */
 
-int add(int n1 , int n2)
+int add(int n1, int n2)
 {
 
 int sum;
