@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * string_nconcat _ concentrates two strings.
+ * string_nconcat - concatenates two strings.
  * @s1: first string
  * @s2: second string
  * @n: index
@@ -15,13 +15,13 @@ char *string_nconcat(char *s1, char *s2, unsigned int n)
 
 	if (s1 == NULL)
 		s1 = "";
-	
+
 	if (s2 == NULL)
 		s2 = "";
 
 	while (s1[size1] != '\0')
 	{
-		size1++
+		size1++;
 	}
 
 	while (s2[size2] != '\0')
